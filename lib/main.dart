@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:smiley/screens/welcome/welcome_screen.dart';
 import 'package:smiley/constants.dart';
