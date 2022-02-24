@@ -1,7 +1,9 @@
-import 'package:flutter/material.dart';
-import 'package:smiley/screens/login/components/body.dart';
+import 'dart:html';
 
-class LoginScreen extends StatelessWidget {
+import 'package:flutter/material.dart';
+import 'package:smiley/screens/signup/components/body.dart';
+
+class SignUpScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
