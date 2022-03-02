@@ -49,4 +49,5 @@ class Post {
 }
 
 class DocumentSnapshot {
+  data() {}
 }

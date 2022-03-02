@@ -7,7 +7,7 @@ import 'package:smiley/responsive/mobile_screen_layout.dart';
 import 'package:smiley/responsive/responsive_layout.dart';
 import 'package:smiley/responsive/web_screen_layout.dart';
 import 'package:smiley/screens/login_screen.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
@@ -20,8 +20,8 @@ void main() async {
           apiKey: "AIzaSyCZ-xrXqD5D19Snauto-Fx_nLD7PLrBXGM",
           appId: "1:585119731880:web:eca6e4b3c42a755cee329d",
           messagingSenderId: "585119731880",
-          projectId: "instagram-clone-4cea4",
-          storageBucket: 'instagram-clone-4cea4.appspot.com'
+          projectId: "smiley132025",
+          storageBucket: 'smiley132025.appspot.com'
       ),
     );
   } else {

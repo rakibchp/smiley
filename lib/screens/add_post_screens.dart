@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:smiley/providers/user_provider.dart';
 import 'package:smiley/resources/firestore_methods.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/utils.dart';
 import 'package:provider/provider.dart';
 

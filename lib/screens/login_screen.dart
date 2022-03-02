@@ -5,7 +5,7 @@ import 'package:smiley/responsive/mobile_screen_layout.dart';
 import 'package:smiley/responsive/responsive_layout.dart';
 import 'package:smiley/responsive/web_screen_layout.dart';
 import 'package:smiley/screens/signup_screen.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/global_variable.dart';
 import 'package:smiley/utils/utils.dart';
 import 'package:smiley/widgets/text_field_input.dart';

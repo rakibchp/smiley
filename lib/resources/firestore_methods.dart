@@ -103,7 +103,7 @@ class FireStoreMethods {
       String followId
       ) async {
     try {
-      DocumentSnapshot snap = await _firestore.collection('users').doc(uid).get();
+      var snap = await _firestore.collection('users').doc(uid).get();
       List following = (snap.data()! as dynamic)['following'];
 
       if(following.contains(followId)) {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/global_variable.dart';
 
 class WebScreenLayout extends StatefulWidget {

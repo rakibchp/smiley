@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:smiley/resources/auth_methods.dart';
 import 'package:smiley/resources/firestore_methods.dart';
 import 'package:smiley/screens/login_screen.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/utils.dart';
 import 'package:smiley/widgets/follow_button.dart';
 

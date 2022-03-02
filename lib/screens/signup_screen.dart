@@ -7,8 +7,8 @@ import 'package:smiley/responsive/mobile_screen_layout.dart';
 import 'package:smiley/responsive/responsive_layout.dart';
 import 'package:smiley/responsive/web_screen_layout.dart';
 import 'package:smiley/screens/login_screen.dart';
-import 'package:smiley/utils/color.dart';
-import 'package:smiley/utils/global_variable.dart';
+import 'package:smiley/utils/colors.dart';
+
 import 'package:smiley/utils/utils.dart';
 import 'package:smiley/widgets/text_field_input.dart';
 
@@ -95,7 +95,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 flex: 2,
               ),
               SvgPicture.asset(
-                'assets/ic_instagram.svg',
+                'assets/smiley.svg',
                 color: primaryColor,
                 height: 64,
               ),
@@ -155,7 +155,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 height: 24,
               ),
               TextFieldInput(
-                hintText: 'Enter your bio',
+                hintText: 'Enter your address',
                 textInputType: TextInputType.text,
                 textEditingController: _bioController,
               ),

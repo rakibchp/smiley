@@ -4,7 +4,7 @@ import 'package:smiley/models/user.dart' as model;
 import 'package:smiley/providers/user_provider.dart';
 import 'package:smiley/resources/firestore_methods.dart';
 import 'package:smiley/screens/comments_screen.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/global_variable.dart';
 import 'package:smiley/utils/utils.dart';
 import 'package:smiley/widgets/like_animation.dart';

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:smiley/models/user.dart';
 import 'package:smiley/providers/user_provider.dart';
 import 'package:smiley/resources/firestore_methods.dart';
-import 'package:smiley/utils/color.dart';
+import 'package:smiley/utils/colors.dart';
 import 'package:smiley/utils/utils.dart';
 import 'package:smiley/widgets/comment_card.dart';
 import 'package:provider/provider.dart';
