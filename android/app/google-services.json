@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209631641256",
+    "project_id": "smiley-abcd",
+    "storage_bucket": "smiley-abcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209631641256:android:5ecfb2be5c88562aa9cc9d",
+        "android_client_info": {
+          "package_name": "com.example.smiley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209631641256-g9ujkjcp2r25h0bngtbele804cl4i9gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixZv_GmBadyINh6CGTrzNxb4HM-NuOiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209631641256-g9ujkjcp2r25h0bngtbele804cl4i9gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
